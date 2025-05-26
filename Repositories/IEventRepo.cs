@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Eksamensprojekt___Gruppe_7.Models;
+using Eksamensgruppe_7___ClassLibrary.Models;
 
 //BY KEVIN
-namespace Eksamensprojekt___Gruppe_7.Repositories
+namespace Eksamensgruppe_7___ClassLibrary.Repositories
 {
     public interface IEventRepo
     {

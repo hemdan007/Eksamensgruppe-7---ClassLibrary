@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Text.Json;
-using Eksamensprojekt___Gruppe_7.Models;
+using Eksamensgruppe_7___ClassLibrary.Models;
 
-namespace Eksamensprojekt___Gruppe_7.Repositories
+namespace Eksamensgruppe_7___ClassLibrary.Repositories
 {
     public interface IAnimalRepo
     {

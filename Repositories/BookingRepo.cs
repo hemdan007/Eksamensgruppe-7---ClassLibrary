@@ -1,4 +1,4 @@
-﻿using Eksamensprojekt___Gruppe_7.Models;
+﻿using Eksamensgruppe_7___ClassLibrary.Models;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text.Json;
 
 
 
-namespace Eksamensprojekt___Gruppe_7.Repositories
+namespace Eksamensgruppe_7___ClassLibrary.Repositories
 {
     public class BookingRepo
     {

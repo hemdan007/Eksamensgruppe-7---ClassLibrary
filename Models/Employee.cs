@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Eksamensprojekt___Gruppe_7.Models
+namespace Eksamensgruppe_7___ClassLibrary.Models
 
     // by Ahmed
 {

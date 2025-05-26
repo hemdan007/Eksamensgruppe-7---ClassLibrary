@@ -1,7 +1,7 @@
-﻿using Eksamensprojekt___Gruppe_7.Models;
-using Eksamensprojekt___Gruppe_7.Repositories;
+﻿using Eksamensgruppe_7___ClassLibrary.Models;
+using Eksamensgruppe_7___ClassLibrary.Repositories;
 // By Kevin
-namespace Eksamensprojekt___Gruppe_7.Service
+namespace Eksamensgruppe_7___ClassLibrary.Service
 {
     public class AnimalService
     {
