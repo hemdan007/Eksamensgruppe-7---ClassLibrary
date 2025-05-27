@@ -7,7 +7,7 @@ namespace Eksamensgruppe_7___ClassLibrary.Models
 {
     public class Animal
     {
-        // Unique identifier for the animal (assigned by the repository upon add)
+        // Unique ID for the animal (assigned by the repository upon add)
         public int Id { get; set; }
 
         // Name of the animal
@@ -16,13 +16,13 @@ namespace Eksamensgruppe_7___ClassLibrary.Models
         // Birth date of the animal
         public DateTime BirthDate { get; set; }
 
-        // Size of the animal in centimeters
+        // Size of the animal in cm
         public int Size { get; set; }
 
         // Unique microchip number
         public string ChipNumber { get; set; }
 
-        // Breed or species of the animal
+        // Race of the animal
         public string Race { get; set; }
 
         // Any special characteristics or notes
