@@ -6,7 +6,7 @@ namespace Eksamensgruppe_7___ClassLibrary.Models
 {
     public class Event
     {
-        public int Id { get; set; }                    // Unique identifier for each event
+        public int Id { get; set; }                    // Unique ID for each event
         public string Name { get; set; }               // Name of the activity/event
         public string Description { get; set; }        // Details about what happens in the event
         public DateTime Date { get; set; }             // When the event takes place
