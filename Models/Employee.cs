@@ -2,7 +2,7 @@
 
 namespace Eksamensgruppe_7___ClassLibrary.Models
 
-    // by Ahmed
+    // by Ahmed 
 {
     public class Employee
     {
